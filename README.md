@@ -1,4 +1,4 @@
-# DeliveryChallenge
+# DeliVery
 To run this app, please follow following steps:
 
 1. Open terminal and go to root project folder where .podfile is stored.
