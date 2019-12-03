@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14492.1" systemVersion="18G95" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Coordinate" representedClassName="Coordinate" syncable="YES" codeGenerationType="class">
+        <attribute name="address" attributeType="String" defaultValueString="abc" syncable="YES"/>
+        <attribute name="latitude" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="longitude" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="delivery" maxCount="1" deletionRule="Nullify" destinationEntity="Delivery" inverseName="location" inverseEntity="Delivery" syncable="YES"/>
+    </entity>
+    <entity name="Delivery" representedClassName="Delivery" syncable="YES" codeGenerationType="class">
+        <attribute name="id" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="imageUrl" attributeType="String" defaultValueString="Placeholder.png" syncable="YES"/>
+        <attribute name="title" attributeType="String" defaultValueString="Delivery 1" syncable="YES"/>
+        <relationship name="location" maxCount="1" deletionRule="Cascade" destinationEntity="Coordinate" inverseName="delivery" inverseEntity="Coordinate" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Coordinate" positionX="-38.53125" positionY="-147.00390625" width="128" height="103"/>
+        <element name="Delivery" positionX="-556.4609375" positionY="-119.015625" width="128" height="103"/>
+    </elements>
+</model>

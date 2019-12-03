@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  DeliveryChallenge
+
+  Created by Megha Wadhwa on 14/11/19.
+  Copyright © 2019 Megha Wadhwa. All rights reserved.
+*/
+
+
+"Things To Deliver" = "Things To Deliver";
+"OK" = "OK";
+"at" = "at";
+"Alert" = "Alert";
+"Adding in-memory persistent store failed" = "Adding in-memory persistent store failed.";
+"Unresolved error: " = "Unresolved error: ";
+"Failed to insert deliveries while saving context:" = "Failed to insert deliveries while saving context:";
+"Unparseable data returned from Server." = "Unparseable data returned from Server.";
+"Invalid data returned from Server." = "Invalid data returned from Server.";
+"Invalid server endpoint. Please check and try again." = "Invalid server endpoint. Please check and try again.";
+"No more Data available to show." = "No more Data available to show.";
+"Please check your Internet connection and try again." = "Please check your Internet connection and try again.";
+"Something went wrong. Please try again later." = "Something went wrong. Please try again later.";
+"Pull Down To Refresh" = "Pull Down To Refresh";
+"Fetching Deliveries ..." = "Fetching Deliveries ...";
