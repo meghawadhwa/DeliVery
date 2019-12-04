@@ -112,10 +112,8 @@ In case of offline mode, app will continue to fetch from cache or server and giv
 
 # ScreenShots
 
-![ScreenShot](https://github.com/meghawadhwa/DeliVery/blob/master/Screenshots/List_Dark.png)
-![ScreenShot](https://github.com/meghawadhwa/DeliVery/blob/master/Screenshots/List_Light.png)
-![ScreenShot](https://github.com/meghawadhwa/DeliVery/blob/master/Screenshots/Detail_Light.png)
-![ScreenShot](https://github.com/meghawadhwa/DeliVery/blob/master/Screenshots/Detail_Dark.png)
+![ScreenShot](https://github.com/meghawadhwa/DeliVery/blob/master/Screenshots/List.png)
+![ScreenShot](https://github.com/meghawadhwa/DeliVery/blob/master/Screenshots/Detail.png)
 
 # TODO / Improvements
 
