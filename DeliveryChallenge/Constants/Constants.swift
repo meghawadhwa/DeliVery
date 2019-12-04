@@ -60,7 +60,7 @@ struct LocalizedErrors {
 }
 
 struct ColorPallete {
-    static let baseBackgroundColor = UIColor.white
+    static let baseBackgroundColor = UIColor.init(named: "BackgroundColor")
     static let cellBackgroundColor = UIColor.lightGray
     static let labelTextColor      = UIColor.white
     static let themeColor          = UIColor(red: 112.0/255.0, green: 188.0/255.0, blue: 217.0/255.0, alpha: 1.0)

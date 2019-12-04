@@ -16,7 +16,7 @@ To run this app, please follow following steps:
 
 # Supported iOS Versions
 
-- iOS 10.0 +
+- iOS 11.0 +
 
 # Language 
 
@@ -62,7 +62,7 @@ Architechture Diagram:
 # Assumptions        
 1. App supports Localization, but for this version app contains only english strings.     
 2. App supports iPhone device in Portrait mode only. 
-3. Supported mobile platforms are iOS (10.x, 11.x, 12.x,13.x)        
+3. Supported mobile platforms are iOS (11.x, 12.x,13.x)        
 4. All iphones supported the supported iOS versions.
 
 # Crashlytics
