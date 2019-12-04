@@ -46,7 +46,7 @@ Please find below the different layers of the architecture:
 
 Architechture Diagram:
 
-![ScreenShot](https://github.com/meghawadhwa/DeliveryChallenge/blob/master/Screenshots/Architecture.png)
+![ScreenShot](https://github.com/meghawadhwa/DeliVery/blob/master/Screenshots/Architecture.png)
 
 
 # Offline Support
@@ -112,9 +112,8 @@ In case of offline mode, app will continue to fetch from cache or server and giv
 
 # ScreenShots
 
-![ScreenShot](https://github.com/meghawadhwa/DeliveryChallenge/blob/master/Screenshots/List.png)
-![ScreenShot](https://github.com/meghawadhwa/DeliveryChallenge/blob/master/Screenshots/Detail.png)
-
+![ScreenShot](https://github.com/meghawadhwa/DeliVery/blob/master/Screenshots/List.png)
+![ScreenShot](https://github.com/meghawadhwa/DeliVery/blob/master/Screenshots/Detail.png)
 
 # TODO / Improvements
 
