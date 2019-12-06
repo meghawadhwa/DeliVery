@@ -18,7 +18,7 @@ class DeliveryDetailsViewControllerTests: XCTestCase {
     func testIfViewIsConfiguredCorrectly() {
         let _ = deliveryDetailsViewController.view
         
-        XCTAssertEqual(deliveryDetailsViewController.view.backgroundColor, UIColor.white)
+        XCTAssertEqual(deliveryDetailsViewController.view.backgroundColor, ColorPallete.baseBackgroundColor)
         XCTAssertEqual(deliveryDetailsViewController.title, LocalizedStrings.deliveryDetails)
         XCTAssertTrue(deliveryDetailsViewController.view.subviews.contains(deliveryDetailsViewController.mapView))
         XCTAssertTrue(deliveryDetailsViewController.view.subviews.contains(deliveryDetailsViewController.deliveryDetailCell))
